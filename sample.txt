@@ -1,1 +1,1 @@
-samplefile to check webhook from ngrok api expose
+sample file to check webhook from ngrok api expose
